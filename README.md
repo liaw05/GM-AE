@@ -24,14 +24,17 @@ Run
 cd gompertz
 python main_ddp.py --resume --gpu 1,2 --batch-size 16 --epochs 60 --distributed
 
+### Training GM-AE：
+cd gmae
+python main_ddp.py
+
+### Download trained models
+Please download the trained models form [baidu](https://pan.baidu.com/s/1FatuhkeZldeHkigvMA85bQ), key is qntc, and place the downloaded models according to directory structure.
+
 ### Inference Gompertz:
 Run
 cd gompertz
 python gompertz/inference.py
-
-### Training GM-AE：
-cd gmae
-python main_ddp.py
 
 ### Inference GM-AE：
 cd gmae
