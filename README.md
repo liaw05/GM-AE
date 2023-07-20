@@ -29,7 +29,7 @@ cd gmae
 python main_ddp.py
 
 ### Download trained models
-Please download the trained models form [baidu](https://pan.baidu.com/s/1FatuhkeZldeHkigvMA85bQ), key is qntc, and place the downloaded models according to directory structure.
+Please download the trained models form [baidu](https://pan.baidu.com/s/1FatuhkeZldeHkigvMA85bQ), key is 'qntc', and place the downloaded models according to directory structure.
 
 ### Inference Gompertz:
 Run
