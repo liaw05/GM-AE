@@ -41,7 +41,7 @@ cd gmae
 python inference.py
 
 ## Datasets
-Details of data processing in https://github.com/liaw05/STMixer
+Details of data processing in [STMixer](https://github.com/liaw05/STMixer).
 The paired nodules selected for this project is listed in './data/data.csv' (NLSTt), and please download raw CT scans from [NLST](https://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial)
 
 <div align="center">
@@ -58,7 +58,7 @@ The paired nodules selected for this project is listed in './data/data.csv' (NLS
 </div>
 <p align="center">
   The center three columns show the predicted texture (left) and shape (right, solid yellow line) of time points Nt by PredNet, NoFoNet, and our GM-AE.
-</p>|
+</p>
 
 
 ## License
