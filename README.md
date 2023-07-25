@@ -1,7 +1,7 @@
 # GM-AE
 
 ## Introduction
-This repository is an implementation of the paper '[Parameterized Gompertz-guided Morphological AutoEncoder for Predicting Pulmonary Nodule Growth]()', accepted by TMI.
+This repository is an implementation of the paper '[Parameterized Gompertz-guided Morphological AutoEncoder for Predicting Pulmonary Nodule Growth](https://ieeexplore.ieee.org/document/10189348)', accepted by TMI.
 
 <div align="center">
   <img width="400", src="./rscs/gompertz model.png">
@@ -69,6 +69,12 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 Please cite GM-AE in your publications if it helps your research. 
 
 ```
-
+@article{fang2023parameterized,
+  title={Parameterized Gompertz-guided Morphological AutoEncoder for Predicting Pulmonary Nodule Growth},
+  author={Fang, Jiansheng and Wang, Jingwen and Li, Anwei and Yan, Yuguang and Liu, Hongbo and Li, Jiajian and Yang, Huifang and Hou, Yonghe and Yang, Xuening and Yang, Ming and others},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
